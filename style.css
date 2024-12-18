@@ -17,6 +17,7 @@ h1 {
 }
 
 main > h2 {
+  color: green;
   text-align: center;
   font-size: 25px;
 }
